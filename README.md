@@ -15,7 +15,7 @@ This is a simple application that allows for an individual to create an account,
 # Technology 
 - Frontend: React.js
 - Backend: Node.js, Express.js 
-- Database: MongoDB
+- Database: Firebase
 - Styling: CSS, Bootstrap
 - Testing: Jest (for backend testing), React Testing Library (for frontend testing)
 
@@ -23,11 +23,12 @@ This is a simple application that allows for an individual to create an account,
 - Account Creation: Allows users to create a new banking account.
 - Deposit/Withdrawal: Users can deposit or withdraw funds.
 - Transaction History: View all account activities.
-- All Data View: Displays details of all accounts.
+- All Data View: Displays details of all accounts. 
 
 # Potential Future Features 
 - Multi-Account Functionality: Option to create and manage multiple account types (savings, checking, etc.).
 - Balance Functionality: Real-time balance updates after each transaction.
 - Enhanced Security: Two-factor authentication for additional security.
+- Login and logout 
 
 # License: MIT
